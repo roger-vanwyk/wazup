@@ -69,7 +69,7 @@ class StatusScreen extends StatelessWidget {
                           "https://pbs.twimg.com/media/EClDvMXU4AAw_lt?format=jpg&name=medium"),
                     ),
                     title: Text(
-                      "Pawan Kumar",
+                      "Roger van Wyk",
                       style: TextStyle(fontWeight: FontWeight.bold),
                     ),
                     subtitle: Text("Today, 20:16 PM"),
